@@ -142,22 +142,23 @@ This course contains lots of challenges for JavaScript, each challenge is a smal
 |     129 | 🎯 Gradient Background Generator                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/21430'>Start Challenge</a>  |
 |     130 | 🎯 Dynamic JavaScript Clock Creation                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/21427'>Start Challenge</a>  |
 |     131 | 🎯 This Is a Browser                                  | ★★☆          | <a target='_blank' href='https://labex.io/labs/298233'>Start Challenge</a> |
-|     132 | 🎯 Open the Sesame Door                               | ★★☆          | <a target='_blank' href='https://labex.io/labs/204455'>Start Challenge</a> |
-|     133 | 🎯 Real-Time Friend Circle Publishing                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298209'>Start Challenge</a> |
-|     134 | 🎯 Course Scheduling Wizard                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298201'>Start Challenge</a> |
-|     135 | 🎯 Universal Synthesis Workbench                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298235'>Start Challenge</a> |
-|     136 | 🎯 Burn Your Calories                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/326692'>Start Challenge</a> |
-|     137 | 🎯 Super Powered Heroes League                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298230'>Start Challenge</a> |
-|     138 | 🎯 Alien Message Translator Program                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298213'>Start Challenge</a> |
-|     139 | 🎯 Consistent Web3 Wallet Balances                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/372859'>Start Challenge</a> |
-|     140 | 🎯 Parsing and Highlighting Text Content              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/295863'>Start Challenge</a> |
-|     141 | 🎯 Reusable Element-UI Form Components                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177217'>Start Challenge</a> |
-|     142 | 🎯 Breadth-First Traversal of DOM Tree                | ★★☆          | <a target='_blank' href='https://labex.io/labs/148580'>Start Challenge</a> |
-|     143 | 🎯 Mastering HTML5 Drag And Drop                      | ★★☆          | <a target='_blank' href='https://labex.io/labs/21429'>Start Challenge</a>  |
-|     144 | 🎯 Depth First Traversal of DOM Tree                  | ★★☆          | <a target='_blank' href='https://labex.io/labs/148859'>Start Challenge</a> |
-|     145 | 🎯 Annual Star Project                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298194'>Start Challenge</a> |
-|     146 | 🎯 Customized Membership Card                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/326693'>Start Challenge</a> |
-|     147 | 🎯 Slot Machine Application Completion                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298227'>Start Challenge</a> |
+|     132 | 🎯 Video Bullet Comments                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/373561'>Start Challenge</a> |
+|     133 | 🎯 Open the Sesame Door                               | ★★☆          | <a target='_blank' href='https://labex.io/labs/204455'>Start Challenge</a> |
+|     134 | 🎯 Real-Time Friend Circle Publishing                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298209'>Start Challenge</a> |
+|     135 | 🎯 Course Scheduling Wizard                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298201'>Start Challenge</a> |
+|     136 | 🎯 Universal Synthesis Workbench                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298235'>Start Challenge</a> |
+|     137 | 🎯 Burn Your Calories                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/326692'>Start Challenge</a> |
+|     138 | 🎯 Super Powered Heroes League                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298230'>Start Challenge</a> |
+|     139 | 🎯 Alien Message Translator Program                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298213'>Start Challenge</a> |
+|     140 | 🎯 Consistent Web3 Wallet Balances                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/372859'>Start Challenge</a> |
+|     141 | 🎯 Parsing and Highlighting Text Content              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/295863'>Start Challenge</a> |
+|     142 | 🎯 Reusable Element-UI Form Components                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177217'>Start Challenge</a> |
+|     143 | 🎯 Breadth-First Traversal of DOM Tree                | ★★☆          | <a target='_blank' href='https://labex.io/labs/148580'>Start Challenge</a> |
+|     144 | 🎯 Mastering HTML5 Drag and Drop                      | ★★☆          | <a target='_blank' href='https://labex.io/labs/21429'>Start Challenge</a>  |
+|     145 | 🎯 Depth First Traversal of DOM Tree                  | ★★☆          | <a target='_blank' href='https://labex.io/labs/148859'>Start Challenge</a> |
+|     146 | 🎯 Annual Star Project                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298194'>Start Challenge</a> |
+|     147 | 🎯 Customized Membership Card                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/326693'>Start Challenge</a> |
+|     148 | 🎯 Slot Machine Application Completion                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298227'>Start Challenge</a> |
 
 ## More
 
