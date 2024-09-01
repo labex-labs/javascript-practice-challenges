@@ -92,7 +92,7 @@ This course contains lots of challenges for JavaScript, each challenge is a smal
 |     079 | 🎯 Reverse String Array                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/189132'>Start Challenge</a> |
 |     080 | 🎯 Locate Unique Integer in Array                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/189120'>Start Challenge</a> |
 |     081 | 🎯 Generating Subsets of Integer Arrays               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/189278'>Start Challenge</a> |
-|     082 | 🎯 Mastering JavaScript String Manipulation           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148018'>Start Challenge</a> |
+|     082 | 🎯 JavaScript String Manipulation                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148018'>Start Challenge</a> |
 |     083 | 🎯 Determine Data Type Accurately                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/188863'>Start Challenge</a> |
 |     084 | 🎯 Checking If Two Objects are Equal                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/179702'>Start Challenge</a> |
 |     085 | 🎯 Minimum Coin Change Problem Solver                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/179995'>Start Challenge</a> |
@@ -154,7 +154,7 @@ This course contains lots of challenges for JavaScript, each challenge is a smal
 |     141 | 🎯 Parsing and Highlighting Text Content              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/295863'>Start Challenge</a> |
 |     142 | 🎯 Reusable Element-UI Form Components                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177217'>Start Challenge</a> |
 |     143 | 🎯 Breadth-First Traversal of DOM Tree                | ★★☆          | <a target='_blank' href='https://labex.io/labs/148580'>Start Challenge</a> |
-|     144 | 🎯 Mastering HTML5 Drag and Drop                      | ★★☆          | <a target='_blank' href='https://labex.io/labs/21429'>Start Challenge</a>  |
+|     144 | 🎯 HTML5 Drag and Drop                                | ★★☆          | <a target='_blank' href='https://labex.io/labs/21429'>Start Challenge</a>  |
 |     145 | 🎯 Depth First Traversal of DOM Tree                  | ★★☆          | <a target='_blank' href='https://labex.io/labs/148859'>Start Challenge</a> |
 |     146 | 🎯 Annual Star Project                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298194'>Start Challenge</a> |
 |     147 | 🎯 Customized Membership Card                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/326693'>Start Challenge</a> |
